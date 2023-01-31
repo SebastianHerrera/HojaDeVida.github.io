@@ -216,7 +216,7 @@ html::-webkit-scrollbar-thumb{
 }
 
 .container .information .skills .box-container .box:first-child .progress:nth-child(3) .bar span{
-  width: 80%;
+  width: 90%;
 }
 
 .container .information .skills .box-container .box:first-child .progress:nth-child(4) .bar span{
